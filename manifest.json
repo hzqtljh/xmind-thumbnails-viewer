@@ -1,0 +1,17 @@
+{
+	"id": "xmind-thumbnails-viewer",
+	"name": "Xmind Thumbnails Viewer",
+	"version": "1.3.0",
+	"minAppVersion": "0.15.0",
+	"author": "hzqtljh",
+	"description": "A plugin that reads XMind files and embeds their previews in Markdown documents.",
+	"apiVersion": 8,
+	"flags": ["mobile", "desktop"],
+	"hasTypes": true,
+	"isDesktopOnly": false,
+	"repoUrl": "",
+	"allApi": false,
+	"commands": [],
+	"views": [],
+	"patches": []
+  }
