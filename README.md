@@ -3,6 +3,8 @@
 ## 概述
 XMind Preview Plugin 是一个适用于 Obsidian 笔记应用程序的插件，允许用户在 Markdown 文件中嵌入并预览 XMind 思维导图文件。通过简单的代码块语法，您可以轻松地将 XMind 文件的缩略图插入到笔记中，并提供打开完整 XMind 文件的功能。
 
+该插件通过读取 `.xmind` 压缩包中 `Thumbnails/thumbnail.png` 文件, 实现对 `.xmind` 文件的预览效果.
+
 ## 主要功能
 - **嵌入 XMind 缩略图**：在 Markdown 文件中显示 XMind 文件的缩略图。
 - **缩放控制**：支持自定义缩放级别，以便更好地适应不同的显示需求。
